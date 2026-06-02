@@ -58,7 +58,7 @@ export default function Header() {
 
           {/* CTA Button */}
           <a
-            href="https://wa.me/5500000000000?text=Olá! Gostaria de solicitar um orçamento para balanças de gado."
+            href="https://wa.me/5541999283623?text=Olá! Gostaria de solicitar um orçamento para balanças de gado."
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex btn-cta items-center gap-2 bg-amber hover:bg-amber-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg shadow-md transition-colors duration-150"
@@ -92,7 +92,7 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="https://wa.me/5500000000000?text=Olá! Gostaria de solicitar um orçamento para balanças de gado."
+            href="https://wa.me/5541999283623?text=Olá! Gostaria de solicitar um orçamento para balanças de gado."
             target="_blank"
             rel="noopener noreferrer"
             className="mt-2 bg-amber text-white font-semibold text-sm px-5 py-3 rounded-lg text-center"
