@@ -370,7 +370,7 @@ export default function Home() {
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-10">
               {[
-                { label: "WhatsApp", value: "(00) 00000-0000", href: "https://wa.me/5541999283623", icon: "💬" },
+                { label: "WhatsApp", value: "(41) 99928-3623", href: "https://wa.me/5541999283623", icon: "💬" },
                 { label: "E-mail", value: "contato@agropeso.com.br", href: "mailto:contato@agropeso.com.br", icon: "✉️" },
                 { label: "Horário", value: "Seg–Sex, 8h–18h", href: "#", icon: "🕐" },
               ].map((item) => (
